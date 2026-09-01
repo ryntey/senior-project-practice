@@ -15,3 +15,14 @@ Remember, it's self-paced so feel free to take a break! ☕️
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 In this personalized version of the project, I added introductory student information and printed. 
+
+Student Developer Profile
+Name: Lauryn Allotey
+
+Technology Interest: Enviromental Impacts of AI, possible alternatives
+
+Senior Project Skill Goal: Speed, efficiency, and accuracy when creating a project from scratch
+
+My Development workflow:
+
+Create Repo -> Branch → Code → Commit → Push → Pull Request → Review → Merge
